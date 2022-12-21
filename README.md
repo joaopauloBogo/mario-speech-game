@@ -9,3 +9,5 @@ Android
 
 A API de voz tem alguns problemas de funcionalidade em alguns navegadores e dispositivos iOS, o recomendado é utilizar o Chrome em desktops e dispositivos Android. Como a apresentação foi feita em um notebook, algumas funcionalidades foram feitas pensando na resolução de 1280x609px, o que pode ocasionar em alguns erros no CSS, sendo assim, é recomendado a utilização dessa resolução para um melhor aproveitamento.
 Feito utilizando de base os ensinamentos passados nos vídeos de Darlan Araújo: https://www.youtube.com/watch?v=Mk61Ht6qro4&t=9s&ab_channel=DarlanAraujo.
+Feito com Raul Dias e Lucas Mathias
+https://github.com/AERPYIA/speech-mario
