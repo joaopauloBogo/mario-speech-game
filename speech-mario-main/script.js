@@ -3,6 +3,8 @@ const pipe = document.querySelector(".pipe");
 const moeda = document.querySelector("#moeda"); 
 
 //voz
+recognition.interimResults = true;
+
 const webkitSpeechRecognition = document.querySelector(".speechApi")
 const textarea = document.querySelector("#textarea")
 const btnGravar = document.querySelector("#btnGravar")
